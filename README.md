@@ -1,2 +1,2 @@
 # stunning-invention
-Mason Dill (mjd159) and Scott Sulivan () present you with the greatest project, this side of the Missisipi, for CPMINF0010
+Mason Dill (mjd159) and Scott Sulivan (scs128) present you with the greatest project, this side of the Missisipi, for CPMINF0010. Something™ takes the input of a name and a key between 0 and 26. The shift function then takes that name and shifts the letters by the key number, for example if key is 2 'a' would become 'c' and 'z' would become 'b' because when it overflows it loops back on itself. FInally, it prints out the resulting encoded string.
